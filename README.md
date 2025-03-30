@@ -17,6 +17,18 @@ HR Dashboard – A summary page for HR to see payroll and employee data.
 
 Employee Portal – Employees can check their salary and attendance records.
 
+To use:
+
+1.) download the file from github
+
+2.) Extract file
+
+3.) type "cmd" inside the file directory
+
+4.) type "npm install" and wait for the installation to be completed
+
+5.) type "npm start"
+
 #Log In Details (For Testing)
 
 HR Login:
