@@ -2,7 +2,9 @@
 This is a simple payroll system made for MotorPH using Electron.js. It helps with managing employees, attendance, and salaries.
 
 NOTE: The database is saved on the system. if you want to start with clean database follow these instructions 
+
 🔽🔽🔽
+
 ##To Reset/Flush Database (For Testing)
 To reset the database and start fresh with testing:
 
